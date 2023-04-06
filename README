@@ -4,6 +4,5 @@ Final Project for Data Structures and Algorithms
 - Graphics are rendered through Raylib
 - Usage of Graphs, Stacks, Arrays, and Hashing
 
-
 To run the program, ensure Raylib is installed from https://www.raylib.com/
 Ensure CMake is installed prior to running file or else it will not work
